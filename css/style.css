@@ -126,9 +126,17 @@ header {
     transform: translate(-50%);
     display: flex;
     justify-content: center;
+    padding: 100px;
 }
 
 .home-img img {
     max-width: 800px;
     width: 100%;
+}
+
+.heading {
+    font-size: 4rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
 }
